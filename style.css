@@ -1,3 +1,10 @@
 body {background-color: #8998C5}
 body {color: #750EA8}
 #first {background-color: #f35135}
+/*fan page part 3*/
+body {font-family: Verdana, Arial, sans-serif;}
+h2 {font-family: Georgia, "times new roman", sans-serif;text-transform: uppercase}
+footer {font-size: .75em; font-style: italic;}
+ul {list-style-type: circle}
+#sitelink {text-decoration: none; font-size: 1.25em; font-weight: bold; }
+div {background-image: url(img/background.jpg)}
